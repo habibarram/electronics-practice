@@ -18,4 +18,4 @@ This circuit demonstrates how two LEDs are connected using resistors and a poten
 •⁠  ⁠Better understanding of current flow in more complex circuits
 
 ## Circuit Image
-![Dual LED Circuit](image.jpeg)
+![Dual LED Circuit](image3.jpeg)
