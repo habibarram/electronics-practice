@@ -5,4 +5,4 @@ This repository contains my hands-on electronics practice, including basic circu
 ## Projects
 •⁠  ⁠LED with Button
 •⁠  ⁠dual LED with Resistors
-•⁠  ⁠Dual LED Circuit 
+•⁠  ⁠Dual LED Circuit with potentiometer
