@@ -1,18 +1,19 @@
-# LED with Resistor
+# Dual LED Circuit with Resistors
 
 ## Description
-This circuit uses a resistor with an LED to limit the current and protect the LED from damage.
+This circuit demonstrates how two LEDs are connected using resistors to control the current and protect the components. The circuit is powered by a battery and built on a breadboard.
 
 ## Components
-•⁠  ⁠LED
-•⁠  ⁠Resistor
+•⁠  ⁠2 LEDs
+•⁠  ⁠Resistors
 •⁠  ⁠Battery
 •⁠  ⁠Breadboard
+•⁠  ⁠Wires
 
 ## What I Learned
-•⁠  ⁠Why a resistor is necessary in LED circuits
-•⁠  ⁠How to control current using resistance
-•⁠  ⁠Basic circuit protection
+•⁠  ⁠How to connect multiple LEDs in a circuit
+•⁠  ⁠Importance of using resistors for each LED
+•⁠  ⁠How to organize connections using wires
 
 ## Circuit Image
-![LED with Resistor Circuit](image.jpeg)
+![Dual LED Circuit](image2.jpeg)
