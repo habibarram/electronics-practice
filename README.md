@@ -4,5 +4,5 @@ This repository contains my hands-on electronics practice, including basic circu
 
 ## Projects
 •⁠  ⁠LED with Button
-•⁠  ⁠LED with Resistor 
+•⁠  ⁠dual LED with Resistors
 •⁠  ⁠Dual LED Circuit 
